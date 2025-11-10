@@ -2,4 +2,5 @@
 
 Monorepo com todos os cursos que já fiz ou estou fazendo.
 
-- [./curso.dev]
+- [boot.dev][./boot.dev]
+- [curso.dev][./curso.dev]
